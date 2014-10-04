@@ -1,0 +1,5 @@
+name: TownyLWCUnlockerDRE
+main: me.tomski.townyunlocker.TownyUnlocker
+version: 0.0.1-SNAPSHOT
+author: Tomski
+depend: [Towny,LWC]
